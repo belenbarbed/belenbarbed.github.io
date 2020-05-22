@@ -1,0 +1,35 @@
+$pink: #F7B2C5;
+$blue: #ABE1FB;
+$white: #FFFFFF;
+$black: #000000;
+$dark-grey: #888888;
+
+$theme-colour: $blue;
+$text-shadow: $dark-grey;
+
+$break-small: 500px;
+$break-large: 1300px;
+
+html, body {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 14pt;
+    /*font-size: 2vw;*/
+    /*color: $dark-grey;*/
+}
+
+.recipe {
+    h2 {
+        /*text-shadow: -1px 0 $text-shadow, 0 1px $text-shadow, 1px 0 $text-shadow, 0 -1px $text-shadow;
+        color: $theme-colour;*/
+        font-weight: bold;
+    }
+
+    .description {
+        p {
+            /*color: $theme-colour;*/
+        }
+        li {
+            /*color: $dark-grey;*/
+        }
+    }
+}

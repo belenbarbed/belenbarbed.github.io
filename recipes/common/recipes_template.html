@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Belen's Recipes - {{ title }}</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="../common/style.css">
+</head>
+
+<body>
+
+<div class="recipe">
+    <div class="title">
+        <h2>{{ title }} - <a href="{{ source }}">source</a></h2>
+    </div>
+    <div class="description">
+        <p>Ingredients (for {{ portion }}):</p>
+        <ul>
+            {% for ingredient in ingredients %}
+            <li>{{ ingredient }}</li>
+            {% endfor %}
+        </ul>
+        <p>Method:</p>
+        <ol>
+            {% for step in method %}
+            <li>{{ step }}</li>
+            {% endfor %}
+        </ol>
+    </div>
+</div>
+
+</body>
+</html>

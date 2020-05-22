@@ -1,0 +1,474 @@
+{
+    "recipes": [
+        {
+            "title": "Gooey Brownies",
+            "source": "https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe",
+            "src": "brownies",
+            "portion": "6",
+            "ingredients": [
+                "100g unsalted butter",
+                "100g dark chocolate",
+                "50g plain flour",
+                "40g cocoa powder",
+                "50g white chocolate",
+                "2 eggs",
+                "200g golden caster sugar",
+                "100ml cream",
+                "1 tbsp smooth peanut butter"
+            ],
+            "method": [
+                "Melt the dark chocolate and butter in a bain marie, leave to cool.",
+                "Sift the flour anc cocoa powder into a bowl.",
+                "Whisk the eggs and sugar until pale and double in size.",
+                "Getly fold the melted chocolate mixture into the mousse.",
+                "Sift the dry ingredients into the mix and fold gently.",
+                "Stir in the chopped white chocolate chunks.",
+                "Whisk the cream and peanut butter together until combined.",
+                "Pour half of the brownie mixture into a greased tin.",
+                "Add the peanut butter cream on top and cover with the rest of the brownie batter.",
+                "Cook for 25 mins at 160&ordm;C fan, until the centre isn't wobbly.",
+                "Set aside to cool before serving."
+            ]
+        },
+        {
+            "title": "Hot and Sour Soup",
+            "source": "",
+            "src": "hot-sour-soup",
+            "portion": "2",
+            "ingredients": [
+            ],
+            "method": [
+            ]
+        },
+        {
+            "title": "Cocido Madrileño",
+            "source": "https://www.hogarmania.com/cocina/recetas/legumbres/cocido-madrileno-26342.html",
+            "src": "cocido-madrileno",
+            "portion": "2",
+            "ingredients": [
+                "2 onions, peeled",
+                "4 cloves of garlic, peeled",
+                "2 cans of chickpeas (500g drained)",
+                "2 small morcillas",
+                "2 small chorizos",
+                "1 jam&oacute;n bone",
+                "1 piece of tocino"
+            ],
+            "method": [
+                "Boil the meat and bones for 10 mins and remove the generated scum. Drain.",
+                "Add all the ingredients in a large pot with enough water to cover them all.",
+                "Simmer for 3h.",
+                "Add the short noodles for the final 10 mins.",
+                "After removing from the heat, take the meats out, chop them roughly, and add them back in.",
+                "Stir through and serve."
+            ]
+        },
+        {
+            "title": "Baileys Cheesecake",
+            "source": "https://www.bbcgoodfood.com/user/757676/recipe/baileys-cheesecake",
+            "src": "baileys-cheesecake",
+            "portion": "8",
+            "ingredients": [
+                "1 tub of philadelphia (180g)",
+                "200ml double cream",
+                "1 tube of oreos (150g)",
+                "100g of unsalted butter",
+                "2 shots of Bailey's",
+                "6 squares of chocolate (eg. darkmilk)",
+                "Sweetener"
+            ],
+            "method": [
+                "Remove the filling from the oreos and set aside",
+                "Blitz the oreo cookies and mix with the melted butter",
+                "Pat a layer of the cookie mix into each container, and chill",
+                "While it is chilling, melt the chocolate.",
+                "In a bowl, whip the cream until it forms soft peaks.",
+                "In a separate bowl, beat the cream cheese until it is soft.",
+                "Fold in the whipped cream, Bailey's and three-quarters of the chocolate.",
+                "When the mixture is smooth, pour it evenly onto the biscuit base.",
+                "Smooth the remaining chocolate on top of the cheesecake mixture.",
+                "Refridgerate and allow to set for at least 2h, preferably overnight."
+            ]
+        },
+        {
+            "title": "Ensaladilla Rusa",
+            "source": "https://www.hogarmania.com/cocina/recetas/ensaladas-verduras/ensaladilla-rusa-3145.html",
+            "src": "ensaladilla-rusa",
+            "portion": "4",
+            "ingredients": [
+                "2-3 potatoes (450 g)",
+                "4 carrots",
+                "2 eggs",
+                "20 olives",
+                "3 tbsp peas",
+                "200 g canned tuna",
+                "mayonnaise",
+                "salt",
+                "parsley"
+            ],
+            "method": [
+                "Boil the peeled potatoes and carrots for 25 mins.",
+                "Add the eggs and some salt to the boiling water.",
+                "Drain everything out, and chop into small cubes once cooled.",
+                "Mix it all in a bowl with the tuna, chopped olives, peas, and mayo",
+                "Season to taste with salt and parsley"
+            ]
+        },
+        {
+            "title": "Tomato and Egg-drop Soup",
+            "source": "https://www.youtube.com/watch?v=Pt4cYIyKTlc",
+            "src": "tomato-egg-soup",
+            "portion": "1",
+            "ingredients": [
+                "1 green onion",
+                "2 cloves of garlic",
+                "2 tomatoes",
+                "2 tsp vegetable oil",
+                "1 tsp salt",
+                "white pepper",
+                "1/2 tsp sugar",
+                "400ml chicken broth",
+                "1 pack of instant noodles",
+                "chili oil"
+            ],
+            "method": [
+                "Chop the green onion and seperate whites from greens.",
+                "Smash and mince the garlic and chop the tomatoes.",
+                "Heat up oil in a pot and fry the white parts of the green onion until soft, then add the garlic.",
+                "Get it nice and warm then add the tomatoes, salt, sugar, and white pepper.",
+                "Cook until the tomatoes have released liquid and are soft, then add chicken broth.",
+                "Once it's boiling again, add the noodles into the soup.",
+                "1 min before the noodles are done, reduce heat on the soup and add the whisked egg.",
+                "Top with the green part of the green onion and chili oil"
+            ]
+        },
+        {
+            "title": "Sichuan-style Green Beans",
+            "source": "",
+            "src": "sichuan-green-beans",
+            "portion": "2",
+            "ingredients": [
+                "100g minced pork",
+                "200g fine green beans",
+                "1 tbsp spicy broadbean paste",
+                "1 tbsp soy sauce",
+                "2 tbsp shaosing wine",
+                "2 cloves of garlic"
+            ],
+            "method": [
+                "Dry fry the green beans in a wok wihout oil until soft and slightly charred, like 20 mins.",
+                "Set the beans aside.",
+                "Cook the minced pork and chopped garlic in a bit of sesame oil until it starts turning brown.",
+                "Add the spicy broadbean paste, the Shaosing wine, and soy sauce, cook until combined.",
+                "Turn the heat off and add the beans back in.",
+                "Mix and serve with rice."
+            ]
+        },
+        {
+            "title": "Slow Beef Ragu",
+            "source": "https://www.recipetineats.com/slow-cooked-shredded-beef-ragu-pasta",
+            "src": "slow-beef-ragu",
+            "portion": "a metric fuckton",
+            "ingredients": [
+                "800g of beef (roasting cut like brisket)",
+                "2 carrots",
+                "2 sticks of celery",
+                "1 onion",
+                "4 garlic cloves",
+                "1 can of chopped tomatoes (400g)",
+                "3 tbsp tomato paste",
+                "250ml red wine",
+                "2 beef stock cubes",
+                "400ml water",
+                "Plenty of salt, pepper, olive oil and parsley"
+            ],
+            "method": [
+                "Cut the beef into 4-6 smaller chunks. Sprinkle with salt and pepper.",
+                "Sear the beef on all sides until slightly bronwed and set aside.",
+                "Re-oil the pan and saut&eacute; the diced onions and minced garlic.",
+                "Add the diced carrot and celery and saut&eacute; for a further 5 mins.",
+                "Add all the remaining ingredients in the pot and put the beef back too.",
+                "Cover and simmer for 2h.",
+                "Remove the beef and shred with 2 forks. Return the shredded beef to the pot.",
+                "Continue simmering without a lid for 30mins.",
+                "Taste and adjust seasoning as appropriate.",
+                "Serve as sauce with pasta and parmesan on top."
+            ]
+        },
+        {
+            "title": "Chicken Bulgogi Udon",
+            "source": "http://seonkyounglongest.com/chicken-bulgogi-udon",
+            "src": "chicken-bulgogi-udon",
+            "portion": "2",
+            "ingredients": [
+                "2 chicken breasts",
+                "4 cloves of garlic",
+                "1 tsp of ginger",
+                "45ml soy sauce",
+                "30ml mirin",
+                "15ml sugar",
+                "30ml sesame oil (+ more for garnish)",
+                "2 portions of udon noodles",
+                "half an onion, sliced",
+                "2 green onions, sliced",
+                "Sesame seeds",
+                "Black pepper"
+            ],
+            "method": [
+                "Thinly slice the chicken breasts and put them in a bowl with the soy sauce, mirin, sugar, sesame oil, pepper, and grated ginger and garlic.",
+                "Let marinate for at least 10 mins.",
+                "Run the udon noodles under hot tap water to loosen them, rinse in cold water, drain, and set aside.",
+                "Heat a large pan with sesame oil and cook the sliced onion until soft and golden.",
+                "Add the marinated chicken and stir fry until the chicken is cooked.",
+                "Add the noodles and stir fry together some more.",
+                "Add the chopped green onions.",
+                "Serve with sesame oil and sesame seeds."
+            ]
+        },
+        {
+            "title": "Broccoli and Beef in Oyster Sauce",
+            "source": "",
+            "src": "broccoli-beef-oyster",
+            "portion": "2",
+            "ingredients": [
+                "One head of broccoli",
+                "One tender beef steak",
+                "4 cloves of garlic",
+                "Oyster sauce",
+                "Cornflour"
+            ],
+            "method": [
+                "Cut the trees out of the broccoli head and boil for 3-4mins.",
+                "Fry the chopped garlic in sesame oil.",
+                "Add the thinly sliced steak and continue to stir-fry.",
+                "Once it's almost cooked through, add a good amount of oyster sauce and a bit of water.",
+                "Add the boiled broccoli and let the sauce thicken (cornflour can help).",
+                "Serve with rice."
+            ]
+        },
+        {
+            "title": "Pisto Manchego",
+            "source": "http://recetasdecocina.elmundo.es/2015/08/pisto-manchego-receta-facil-casera.html",
+            "src": "pisto-manchego",
+            "portion": "2",
+            "ingredients": [
+                "4 ripe tomatoes",
+                "100ml tomato sauce",
+                "1 courgette",
+                "1 onion",
+                "1 red pepper",
+                "1 green pepper",
+                "4 cloves of garlic",
+                "salt, pepper and olive oil"
+            ],
+            "method": [
+                "Cook the crushed and finely chopped garlic in plenty of olive oil. Never stop stirring.",
+                "Add the chopped onion and peppers. Cook until softened (adding salt to help).",
+                "Add the chopped courgette and poach everything until soft.",
+                "Add the tomatoes, peeled and de-seeded. Once they're soft you can chop them with your tongs/spatula.",
+                "Once all the veggies are done, add a bit of tomato sauce. Stir until hot throughout.",
+                "Serve with eggs in any form (fried, poached, omelet...)."
+            ]
+        },
+        {
+            "title": "Veggie Tikka Masala",
+            "source": "https://biancazapatka.com/en/2019/02/06/cauliflower-tikka-masala/",
+            "src": "veggie-tikka-masala",
+            "portion": "4",
+            "ingredients": [
+                "1 cauliflower head",
+                "1 big carrot",
+                "2 onions",
+                "4 cloves of garlic",
+                "1 tbsp ginger",
+                "2 tbsp tomato paste",
+                "500ml of prepared Tikka Masala sauce (by Sainsbury's - 1 bottle)",
+                "1 block of paneer (optional)",
+                "1 teaspoon of cornflour",
+                "Salt, pepper, cumin, coriander, tumeric"
+            ],
+            "method": [
+                "Cut the cauliflower into small bite-sized florets and wash.",
+                "Chop and microwave the carrot for 2-3 mins to soften them.",
+                "Cut the onions into thin strips.",
+                "Cook the cauliflower, onions, carrot, cubed panner, garlic and ginger all together in a big pot with plenty of oil.",
+                "Once the onions are soft and almost transparent, add the tikka masala sauce, tomato paste, and extra water to cover all the ingredients.",
+                "Cover and let cook for 10-15 mins.",
+                "Remove the cover and add the cornflower and extra spices to taste.",
+                "Cook for a little longer until it has the desired thickness.",
+                "Serve with rice or naan."
+            ]
+        },
+        {
+            "title": "Kimchi Fried Rice",
+            "source": "https://norecipes.com/kimchi-fried-rice",
+            "src": "kimchi-fried-rice",
+            "portion": "1",
+            "ingredients": [
+                "1 cup of kimchi",
+                "15ml Gochujang",
+                "10ml soy sauce",
+                "10ml sesame oil",
+                "1 onion",
+                "2 garlic cloves",
+                "1 green onion",
+                "2 eggs",
+                "1 portion of rice (cooked)"
+            ],
+            "method": [
+                "Squeeze all the juice out of the kimchi and set aside.",
+                "Chop the now dry kimchi, as well as the onion and garlic.",
+                "Mix the gochujang and soy sauce with the kimchi juice.",
+                "Drizzle the sesame oil into the coocked rice.",
+                "Stir fry the onions and garlic, one softened add the kimchi too.",
+                "Add the rice and stir well to avoid clumps.",
+                "Add the sauce mix in and stir fry for a while longer.",
+                "Add the eggs, and cook them in with the residual heat.",
+                "Serve with the chopped green onion on top."
+            ]
+        },
+        {
+            "title": "Chicken Pesto and Courgette Pasta",
+            "source": "https://www.buzzfeed.com/matthewfjohnson/this-chicken-pesto-and-zucchini-pasta-makes-the-perfect",
+            "src": "courgette-pasta",
+            "portion": "2",
+            "ingredients": [
+                "3 courgettes",
+                "2 chicken breasts",
+                "Pesto sauce",
+                "Cheese (mozzarela, goat's)",
+                "Salt, pepper, oil"
+            ],
+            "method": [
+                "With a vegetable peeler, shave ribbons of the zucchini until you reach the seeds.",
+                "Fry off the chicken cut into strips/chunks.",
+                "Once the chicken is fully cooked, add the pesto, some more olive oil and the courgette ribbons.",
+                "Reduce the heat, add the cheese, and stir until all is warm through."
+            ]
+        },
+        {
+            "title": "Chicken Udon Soup",
+            "source": "http://seonkyounglongest.com/chicken-udon",
+            "src": "chicken-udon-soup",
+            "portion": "2",
+            "ingredients": [
+                "1L dashi broth",
+                "30ml soy sauce",
+                "30ml mirin",
+                "30ml sake",
+                "15ml sugar",
+                "1 leek",
+                "1 green onion",
+                "2 boneless chicken thighs",
+                "2 portions of udon noodles (frozen or dry)"
+            ],
+            "method": [
+                "Make the dashi broth (mix 3 teaspoons of powder with 1L of water).",
+                "Add the soy sauce, mirin and sugar to the stock. Let boil for 2-3 mins.",
+                "Cut the leek length-wise and clean between the leaves. Cut length-wise again and then into 5cm pieces.",
+                "Cut the chicken into bite-sized pieces",
+                "Add the leek, chicken, and sake to the soup.",
+                "Bring the soup back to a boil, then cook until the chicken is fully cooked and the leek is tender.",
+                "If the noodles are not fresh, cook separately as the chicken is cooking and then add. If they're fresh, add them directly to the soup now.",
+                "Sprinkle chopped green onion and serve."
+            ]
+        },
+        {
+            "title": "Carrot Falafels",
+            "source": "https://www.olivemagazine.com/recipes/vegan/carrot-falafels-with-cumin-and-coriander/",
+            "src": "carrot-falafels",
+            "portion": "2",
+            "ingredients": [
+                "1 can of chickpeas (400g)",
+                "100g-200g of carrots",
+                "1 tsp ground cumin",
+                "1 tsp ground coriander",
+                "1 tbsp cornflour",
+                "1 garlic clove"
+            ],
+            "method": [
+                "Drain the chickpeas with a tea towel.",
+                "Peel and thinly cut the carrots.",
+                "Place all ingredients in a food processor and blend together to form a paste.",
+                "Form paste into small balls.",
+                "Fry off in a pan with oil."
+            ]
+        },
+        {
+            "title": "Caramelised Onions",
+            "source": "https://www.taste.com.au/recipes/caramelised-onions/5e9306e9-8c70-48dc-98ea-d1f646b6065d",
+            "src": "caramelised-onions",
+            "portion": "a couple of servings",
+            "ingredients": [
+                "3 red onions",
+                "30ml olive oil",
+                "30ml brown sugar",
+                "30ml balsamic vinegar",
+                "Salt"
+            ],
+            "method": [
+                "Chop all the onions into half-rings.",
+                "Heat the oil in a large pan and slowly cook the onions with some salt until they're soft.",
+                "Add the sugar and vinegar and cook further until fully caramelised."
+            ]
+        },
+        {
+            "title": "Nametake",
+            "source": "https://www.japanesecooking101.com/nametake-recipe/",
+            "src": "nametake",
+            "portion": "2",
+            "ingredients": [
+                "200g of enoki mushrooms (1 bag)",
+                "3 tbsp soy sauce",
+                "2 tbsp mirin",
+                "2 tbsp sake",
+                "1 tsp sugar",
+                "1 tbsp rice vinegar"
+            ],
+            "method": [
+                "Cut off the brown end of the Enoki mushrooms and wash.",
+                "Put in a pot all the ingredients except the vinegar and cook at medium heat, stirring constantly.",
+                "When thickened, add the vinegar and cook 2-3 minutes longer.",
+                "Remove from heat, and let cool."
+            ]
+        },
+        {
+            "title": "Soy-Glazed Salmon",
+            "source": "https://www.marthastewart.com/314009/soy-glazed-salmon",
+            "src": "soy-glazed-salmon",
+            "portion": "2",
+            "ingredients": [
+                "2 salmon fillets",
+                "45ml soy sauce",
+                "30ml water",
+                "30ml lemon juice",
+                "60ml brown sugar",
+                "60ml olive oil"
+            ],
+            "method": [
+                "Mix everything (except the salmon) to make the sauce.",
+                "Coat salmon in sauce (keep excess in oven dish) and cook for 15-20 mins at 200&ordm;C."
+            ]
+        },
+        {
+            "title": "German Salad",
+            "source": "http://www.recetasdiarias.com/recetas/ensalada/ensalada-alemana/",
+            "src": "german-salad",
+            "portion": "2",
+            "ingredients": [
+                "2 large potatoes",
+                "2 large Frankfurters",
+                "1/2 onion",
+                "2 spoonfuls of mayo",
+                "1 teaspoon of dijon mustard",
+                "A bit of parsley"
+            ],
+            "method": [
+                "Boil the diced potatoes in salty water for 30 mins. Salt and pepper them.",
+                "Finely chop the onion and add to the potatoes.",
+                "Fry off the sausages for a couple of minutes, then chop and add.",
+                "Mix the mayo, mustard and parsley. Add."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Belen's Recipes</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="utf-8"/>
+</head>
+
+<body>
+
+<h1>RECIPES</h1>
+<!--
+<h2>Tips</h2>
+<ul>
+<li>Tablespoon = 15ml, teaspoon = 5ml, 1 cup = 0.25l.</li>
+<li>Stir fry sauce: 2 tbsp (30ml) soy sauce, 2 tsp (10ml) fish sauce, 6 tbsp (90ml) oyster sauce.</li>
+</ul>
+
+<h2>Quick Ones</h2>
+<ul>
+<li>Basa fillets with miso paste and sesame seeds.</li>
+<li>Perfect Quinoa: 2 parts water, 1 part quinoa. Rinse. Boil until no water left. Cover and rest for 5 mins.</li>
+<li>Chicken from frozen: cook at 210&ordm;C for 40 mins wrapped in foil.</li>
+</ul>
+-->
+
+<!-- Recipes TODO:
+    Hot and Sour Soup
+    Gazpacho
+-->
+
+<div class="recipes">
+
+    
+    <div class="recipe" id="brownies" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/brownies.jpg" />
+        <div class="title">
+            Gooey Brownies
+        </div>
+    </div>
+    
+    <div class="recipe" id="hot-sour-soup" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/hot-sour-soup.jpg" />
+        <div class="title">
+            Hot and Sour Soup
+        </div>
+    </div>
+    
+    <div class="recipe" id="cocido-madrileno" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/cocido-madrileno.jpg" />
+        <div class="title">
+            Cocido Madrileño
+        </div>
+    </div>
+    
+    <div class="recipe" id="baileys-cheesecake" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/baileys-cheesecake.jpg" />
+        <div class="title">
+            Baileys Cheesecake
+        </div>
+    </div>
+    
+    <div class="recipe" id="ensaladilla-rusa" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/ensaladilla-rusa.jpg" />
+        <div class="title">
+            Ensaladilla Rusa
+        </div>
+    </div>
+    
+    <div class="recipe" id="tomato-egg-soup" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/tomato-egg-soup.jpg" />
+        <div class="title">
+            Tomato and Egg-drop Soup
+        </div>
+    </div>
+    
+    <div class="recipe" id="sichuan-green-beans" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/sichuan-green-beans.jpg" />
+        <div class="title">
+            Sichuan-style Green Beans
+        </div>
+    </div>
+    
+    <div class="recipe" id="slow-beef-ragu" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/slow-beef-ragu.jpg" />
+        <div class="title">
+            Slow Beef Ragu
+        </div>
+    </div>
+    
+    <div class="recipe" id="chicken-bulgogi-udon" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/chicken-bulgogi-udon.jpg" />
+        <div class="title">
+            Chicken Bulgogi Udon
+        </div>
+    </div>
+    
+    <div class="recipe" id="broccoli-beef-oyster" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/broccoli-beef-oyster.jpg" />
+        <div class="title">
+            Broccoli and Beef in Oyster Sauce
+        </div>
+    </div>
+    
+    <div class="recipe" id="pisto-manchego" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/pisto-manchego.jpg" />
+        <div class="title">
+            Pisto Manchego
+        </div>
+    </div>
+    
+    <div class="recipe" id="veggie-tikka-masala" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/veggie-tikka-masala.jpg" />
+        <div class="title">
+            Veggie Tikka Masala
+        </div>
+    </div>
+    
+    <div class="recipe" id="kimchi-fried-rice" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/kimchi-fried-rice.jpg" />
+        <div class="title">
+            Kimchi Fried Rice
+        </div>
+    </div>
+    
+    <div class="recipe" id="courgette-pasta" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/courgette-pasta.jpg" />
+        <div class="title">
+            Chicken Pesto and Courgette Pasta
+        </div>
+    </div>
+    
+    <div class="recipe" id="chicken-udon-soup" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/chicken-udon-soup.jpg" />
+        <div class="title">
+            Chicken Udon Soup
+        </div>
+    </div>
+    
+    <div class="recipe" id="carrot-falafels" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/carrot-falafels.jpg" />
+        <div class="title">
+            Carrot Falafels
+        </div>
+    </div>
+    
+    <div class="recipe" id="caramelised-onions" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/caramelised-onions.jpg" />
+        <div class="title">
+            Caramelised Onions
+        </div>
+    </div>
+    
+    <div class="recipe" id="nametake" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/nametake.jpg" />
+        <div class="title">
+            Nametake
+        </div>
+    </div>
+    
+    <div class="recipe" id="soy-glazed-salmon" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/soy-glazed-salmon.jpg" />
+        <div class="title">
+            Soy-Glazed Salmon
+        </div>
+    </div>
+    
+    <div class="recipe" id="german-salad" onclick="goToRecipe(this)">
+        <img class="recipe-image" src="img/german-salad.jpg" />
+        <div class="title">
+            German Salad
+        </div>
+    </div>
+    
+
+</div>
+
+<script type="text/javascript">
+function goToRecipe(element) {
+    var currentURL = window.location.href;
+    // DEBUG
+    if (currentURL.endsWith('index.html')) {
+        window.location.href = currentURL.slice(0, currentURL.lastIndexOf('/') + 1) + element.id + ".html";
+        return;
+    }
+    window.location.href = currentURL + element.id;
+}
+</script>
+
+</body>
+</html>

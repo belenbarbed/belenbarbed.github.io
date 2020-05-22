@@ -1,0 +1,35 @@
+.project {
+  float: left;
+  overflow: hidden;
+  width: 24vw;
+  height: 32vw;
+  /*width: 19vw;
+  height: 25vw;*/
+  position: relative;
+  margin: 5px; }
+  .project:hover .proj-image {
+    opacity: 0.2;
+    z-index: 0; }
+  .project .proj-image {
+    height: 100%;
+    width: auto;
+    position: absolute;
+    bottom: 0;
+    z-index: 2; }
+  .project .proj-description {
+    position: absolute;
+    height: 95%;
+    width: 95%;
+    z-index: 1;
+    text-align: left;
+    vertical-align: middle;
+    margin: 5px;
+    overflow: scroll; }
+    .project .proj-description .title {
+      font-size: 14pt;
+      padding: 10px 0; }
+    .project .proj-description p {
+      padding: 3px;
+      margin: 0; }
+    .project .proj-description a {
+      text-decoration: none; }
