@@ -69,4 +69,22 @@ h1 {
   }*/
 }
 
-/*# sourceMappingURL=style.css.map */
+html, body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 2vh;
+}
+
+.recipe .title {
+  text-shadow: -1px 0 #888888, 0 1px #888888, 1px 0 #888888, 0 -1px #888888;
+  color: #ABE1FB;
+  font-weight: bold;
+  font-size: 3vh;
+}
+.recipe .description p {
+  /*color: $theme-colour;*/
+}
+.recipe .description li {
+  /*color: $dark-grey;*/
+}
+
+/*# sourceMappingURL=recipe.css.map */

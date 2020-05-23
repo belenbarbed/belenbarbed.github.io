@@ -6,12 +6,15 @@ $dark-grey: #888888;
 
 $theme-colour: $blue;
 $text-shadow: $dark-grey;
+$font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 
 $break-small: 500px;
 $break-large: 1300px;
 
 html, body {
-  /*background-image: linear-gradient($white, $theme-colour);*/
+    background-image: linear-gradient($white, $theme-colour);
+    background-attachment: fixed;
+    font-family: $font-family;
 }
 
 h1 {
@@ -23,7 +26,6 @@ h1 {
 .recipes {
     display: table;
     border-collapse: collapse;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 
     .recipe {
         float: left;
