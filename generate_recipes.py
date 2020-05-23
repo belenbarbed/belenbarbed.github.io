@@ -16,7 +16,7 @@ def generate_recipes(env, data):
     template = env.get_template('recipes_template.html')
 
     for recipe in data['recipes']:
-        with open(f'{recipe["src"]}.html', 'w') as file:
+        with open(f'recipes/{recipe["src"]}.html', 'w') as file:
             file.write(template.render(recipe))
 
 if __name__ == '__main__':

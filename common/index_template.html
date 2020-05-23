@@ -34,12 +34,14 @@
 <div class="recipes">
 
     {% for recipe in recipes %}
-    <div class="recipe" id="{{ recipe['src'] }}" onclick="goToRecipe(this)">
-        <img class="recipe-image" src="img/{{ recipe['src'] }}.jpg" />
-        <div class="title">
-            {{ recipe['title'] }}
+    <a href="/recipes/{{ recipe['src'] }}.html">
+        <div class="recipe" id="{{ recipe['src'] }}" onclick="goToRecipe(this)">
+            <img class="recipe-image" src="img/{{ recipe['src'] }}.jpg" />
+            <div class="title">
+                {{ recipe['title'] }}
+            </div>
         </div>
-    </div>
+    </a>
     {% endfor %}
 
 </div>
