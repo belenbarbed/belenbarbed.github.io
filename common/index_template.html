@@ -10,7 +10,10 @@
 
 <body>
 
-<h1>BELEN'S RECIPES</h1>
+<div class="header">
+    <h1>BELEN'S RECIPES</h1>
+</div>
+
 <!--
 <h2>Tips</h2>
 <ul>
@@ -35,7 +38,7 @@
 
     {% for recipe in recipes %}
     <a href="/recipes/{{ recipe['src'] }}.html">
-        <div class="recipe" id="{{ recipe['src'] }}" onclick="goToRecipe(this)">
+        <div class="recipe" id="{{ recipe['src'] }}">
             <img class="recipe-image" src="img/{{ recipe['src'] }}.jpg" />
             <div class="title">
                 {{ recipe['title'] }}
@@ -45,18 +48,6 @@
     {% endfor %}
 
 </div>
-
-<script type="text/javascript">
-function goToRecipe(element) {
-    var currentURL = window.location.href;
-    // DEBUG
-    if (currentURL.endsWith('index.html')) {
-        window.location.href = currentURL.slice(0, currentURL.lastIndexOf('/') + 1) + element.id + ".html";
-        return;
-    }
-    window.location.href = currentURL + element.id;
-}
-</script>
 
 </body>
 </html>
