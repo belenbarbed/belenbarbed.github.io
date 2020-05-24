@@ -17,6 +17,7 @@ html, body {
 }
 
 .recipe {
+    padding: 0 30px 0 30px;
     .title {
         text-shadow: -1px 0 $text-shadow, 0 1px $text-shadow, 1px 0 $text-shadow, 0 -1px $text-shadow;
         color: $theme-colour;
