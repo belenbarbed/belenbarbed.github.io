@@ -1,6 +1,33 @@
 {
     "recipes": [
         {
+            "title": "Pork and Butterbean Cassoulet",
+            "source": "https://sortedfood.com/recipe/onepotporkapricot",
+            "src": "pork-bean-cassoulet",
+            "portion": "2",
+            "ingredients": [
+                "2-4 pork medallions (depending on size)",
+                "400g butterbeans (1 can)",
+                "??g shallots",
+                "??g mushrooms",
+                "4 cloves of garlic",
+                "100g spinach",
+                "2tbsp flour",
+                "400ml chicken stock",
+                "100ml cream",
+                "Olive oil",
+                "Salt, pepper, thyme"
+            ],
+            "method": [
+                "Fry off the medallions in some olive oil until brown (but not cooked through), set aside.",
+                "In the resulting oil, fry the chopped shallots, mushrooms, and garlic.",
+                "After 3-4mins, add the strained beans, as well as the flour, and mix well.",
+                "Slowly incorporate the stock, making sure it's well combined before adding more.",
+                "Once it's simmering, add the pork back in, cover, and simmer for 10mins.",
+                "Finally, add the cream and spinach. Serve once the latter has wilted."
+            ]
+        },
+        {
             "title": "Gooey Brownies",
             "source": "https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe",
             "src": "brownies",
@@ -18,7 +45,7 @@
             ],
             "method": [
                 "Melt the dark chocolate and butter in a bain marie, leave to cool.",
-                "Sift the flour anc cocoa powder into a bowl.",
+                "Sift the flour and cocoa powder into a bowl.",
                 "Whisk the eggs and sugar until pale and double in size.",
                 "Getly fold the melted chocolate mixture into the mousse.",
                 "Sift the dry ingredients into the mix and fold gently.",
