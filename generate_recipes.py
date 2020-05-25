@@ -10,9 +10,6 @@ def generate_index(env, data):
 
 def generate_recipes(env, data):
 
-    with open('recipes.json') as f:
-      data = json.load(f)
-
     template = env.get_template('recipes_template.html')
 
     for recipe in data['recipes']:
