@@ -2,10 +2,10 @@
 <html>
 
 <head>
-  <title>Belen's Recipes</title>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <meta charset="utf-8"/>
+    <title>Belen's Recipes</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8"/>
 </head>
 
 <body>
@@ -30,8 +30,10 @@
 -->
 
 <!-- Recipes TODO:
-    Hot and Sour Soup
+    Bacalao Ajoarriero
+    Black Bean Chilli Stir Fry
     Gazpacho
+    Green Onion Pancakes
 -->
 
 <div class="recipes">
@@ -39,7 +41,7 @@
     {% for recipe in recipes %}
     <a href="/recipes/{{ recipe['src'] }}.html">
         <div class="recipe" id="{{ recipe['src'] }}">
-            <img class="recipe-image" src="img/{{ recipe['src'] }}.jpg" />
+            <img class="recipe-image" src="img/{{ recipe['img-src'] or recipe['src'] }}.jpg" />
             <div class="title">
                 {{ recipe['title'] }}
             </div>

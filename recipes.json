@@ -510,7 +510,8 @@
         {
             "title": "Soy-Glazed Salmon",
             "source": "https://www.marthastewart.com/314009/soy-glazed-salmon",
-            "src": "grey",
+            "src": "soy-glazed-salmon",
+            "img-src": "grey",
             "portion": "2",
             "ingredients": [
                 "2 salmon fillets",
@@ -528,7 +529,8 @@
         {
             "title": "German Salad",
             "source": "http://www.recetasdiarias.com/recetas/ensalada/ensalada-alemana/",
-            "src": "grey",
+            "src": "german-salad",
+            "img-src": "grey",
             "portion": "2",
             "ingredients": [
                 "2 large potatoes",
