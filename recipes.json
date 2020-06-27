@@ -1,6 +1,28 @@
 {
     "recipes": [
         {
+            "title": "Black Bean Chilli Stir-Fry",
+            "source": "https://blog.themalamarket.com/cooking-with-the-godmother-lao-gan-ma-black-bean-chicken",
+            "src": "black-bean-chilli-stir-fry",
+            "portion": "2",
+            "ingredients": [
+                "2 egg noodle nests",
+                "Some stir-fry veggies",
+                "2tbsp Lao Gan Ma black beans in chilli oil",
+                "2tbsp light soy sauce",
+                "1tsp dark soy sauce",
+                "1tsp sugar",
+                "2tbsp water",
+                "1tsp chicken broth powder"
+            ],
+            "method": [
+                "Add all the sauce ingredients in a bowl and mix them well.",
+                "Stir fry the veggies while the noodles cook.",
+                "Once, the veggies are done, add the noodles in.",
+                "When that's all combined, add the sauce mix and mix it through."
+            ]
+        },
+        {
             "title": "Bacalao Ajoarriero",
             "source": "https://www.hogarmania.com/cocina/recetas/pescados-mariscos/bacalao-ajoarriero-8642.html",
             "src": "bacalao-ajoarriero",
@@ -284,7 +306,6 @@
         },
         {
             "title": "Sichuan-style Green Beans",
-            "source": "",
             "src": "sichuan-green-beans",
             "portion": "2",
             "ingredients": [
@@ -367,7 +388,6 @@
         },
         {
             "title": "Broccoli and Beef in Oyster Sauce",
-            "source": "",
             "src": "broccoli-beef-oyster",
             "portion": "2",
             "ingredients": [
