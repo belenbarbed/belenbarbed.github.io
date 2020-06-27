@@ -1,6 +1,26 @@
 {
     "recipes": [
         {
+            "title": "Green Onion Pancakes",
+            "src": "green-onion-pancakes",
+            "portion": "5 pancakes",
+            "ingredients": [
+                "120g flour",
+                "200ml water",
+                "1 tbsp sesame oil",
+                "2 garlic cloves",
+                "4 green onions"
+            ],
+            "method": [
+                "Add all the ingredients in a bowl - including the minced garlic and chopped green onions.",
+                "Mix well.",
+                "Oil a non-stick pan and cook a ladle-full of the batter at a time.",
+                "Try to flatten the batter as much as possible.",
+                "Cook for ~3mins each side or until golden brown.",
+                "Serve with a soy sauce and black vinegar dip."
+            ]
+        },
+        {
             "title": "Gazpacho",
             "src": "gazpacho",
             "portion": "4",
