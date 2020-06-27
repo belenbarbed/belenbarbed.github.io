@@ -1,6 +1,28 @@
 {
     "recipes": [
         {
+            "title": "Japanese Curry",
+            "src": "japanese-curry",
+            "portion": "2",
+            "ingredients": [
+                "1 onion (~225g)",
+                "2 carrots (~65g)",
+                "1 potato (~75g)",
+                "250g protein (mince, tofu...)",
+                "2 blocks of Golden Curry sauce",
+                "330ml water",
+                "Vegetable oil"
+            ],
+            "method": [
+                "Chop all the vegetables into small cubes.",
+                "Stir fry the vegetables with the protein for about 5mins in some vegetable oil.",
+                "Add the water and let it simmer for 15mins.",
+                "Add the curry cubes and stir them in well.",
+                "Let it simmer for another 5mins.",
+                "Serve on rice or noodles."
+            ]
+        },
+        {
             "title": "Matcha Shortbread",
             "source": "https://www.justonecookbook.com/green-tea-white-chocolate-cookies/",
             "src": "matcha-shortbread",
@@ -488,7 +510,7 @@
         {
             "title": "Soy-Glazed Salmon",
             "source": "https://www.marthastewart.com/314009/soy-glazed-salmon",
-            "src": "soy-glazed-salmon",
+            "src": "grey",
             "portion": "2",
             "ingredients": [
                 "2 salmon fillets",
@@ -506,7 +528,7 @@
         {
             "title": "German Salad",
             "source": "http://www.recetasdiarias.com/recetas/ensalada/ensalada-alemana/",
-            "src": "german-salad",
+            "src": "grey",
             "portion": "2",
             "ingredients": [
                 "2 large potatoes",
