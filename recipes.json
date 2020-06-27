@@ -1,6 +1,31 @@
 {
     "recipes": [
         {
+            "title": "Bacalao Ajoarriero",
+            "source": "https://www.hogarmania.com/cocina/recetas/pescados-mariscos/bacalao-ajoarriero-8642.html",
+            "src": "bacalao-ajoarriero",
+            "portion": "2",
+            "ingredients": [
+                "2 cod fillets (~300g)",
+                "1 green pepper",
+                "1 red pepper",
+                "1 small potato",
+                "1/2 onion",
+                "4 garlic cloves",
+                "150g canned tomatoes or tomato sauce",
+                "Olive oil",
+                "Salt, pepper, paprika (piment&oacute;n)"
+            ],
+            "method": [
+                "Chop the peppers, potato, and onions into small cubes, and mince the garlic.",
+                "Shred the cod fillets as finely as possible.",
+                "Fry the garlic in plenty of olive oil, and add the rest of the vegetables when it starts to turn golden.",
+                "Cook for 15mins, then add the cod.",
+                "Keep frying until the cod is pretty much done, then add the tomatoes.",
+                "Mix thoroughly and season with the salt, pepper, and paprika."
+            ]
+        },
+        {
             "title": "Green Onion Pancakes",
             "src": "green-onion-pancakes",
             "portion": "5 pancakes",
@@ -22,6 +47,7 @@
         },
         {
             "title": "Gazpacho",
+            "source": "https://www.hogarmania.com/cocina/recetas/sopas-cremas/gazpacho-andaluz-841.html",
             "src": "gazpacho",
             "portion": "4",
             "ingredients": [
