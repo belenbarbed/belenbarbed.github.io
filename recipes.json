@@ -1,6 +1,25 @@
 {
     "recipes": [
         {
+            "title": "Gazpacho",
+            "src": "gazpacho",
+            "portion": "4",
+            "ingredients": [
+                "?? tomatoes",
+                "1 green pepper",
+                "1 cucumber",
+                "2 garlic cloves",
+                "1 slice of toasted bread",
+                "Olive oil",
+                "Vinegar",
+                "Salt and pepper"
+            ],
+            "method": [
+                "Blend all the ingredients together with some water.",
+                "Let cool in the fridge before serving."
+            ]
+        },
+        {
             "title": "Japanese Curry",
             "src": "japanese-curry",
             "portion": "2",
