@@ -1,6 +1,25 @@
 {
     "recipes": [
         {
+            "title": "Salmorejo Cordobes",
+            "source": "https://www.recetasdeescandalo.com/salmorejo-cordobes-como-hacer-la-receta-tradicional-andaluza/",
+            "src": "salmorejo",
+            "portion": "1",
+            "ingredients": [
+                "250g ripe tomatoes",
+                "2 garlic cloves",
+                "1/2 toasted bread slice",
+                "50ml olive oil",
+                "Salt, pepper"
+            ],
+            "method": [
+                "Blend the diced tomatoes to a fine soup.",
+                "Strain the soup into a bowl, and let the bread soak in it for at least 10mins.",
+                "Blend the soup with the bread together with the peeled garlic cloves and the olive oil. It should turn orange after a while.",
+                "Season and refrigerate well before serving."
+            ]
+        },
+        {
             "title": "Tortilla de Patatas",
             "source": "https://www.recetasderechupete.com/tortilla-de-patatas-espanola-receta-paso-a-paso/5182/",
             "src": "tortilla-patatas",
