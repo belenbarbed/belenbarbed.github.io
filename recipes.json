@@ -1,6 +1,27 @@
 {
     "recipes": [
         {
+            "title": "Tortilla de Patatas",
+            "source": "https://www.recetasderechupete.com/tortilla-de-patatas-espanola-receta-paso-a-paso/5182/",
+            "src": "tortilla-patatas",
+            "portion": "2",
+            "ingredients": [
+                "4 eggs",
+                "400g potatoes",
+                "1/2 onion",
+                "300ml olive oil at least",
+                "Salt, pepper"
+            ],
+            "method": [
+                "Peel, wash, dry, and thinly slice the potatoes.",
+                "Place in a bowl with salt.",
+                "Heat up the olive oil in a deep pan, and cook the potatoes for about 20mins. They should be slightly golden.",
+                "Scoop up the potatoes with as little oil as possible and place them into the bowl with the beaten eggs.",
+                "Once mixed through and seasoned, pour the mixture in a small round pan with a little of the leftover oil.",
+                "Cook for about 3mins each side, using a plate to help flip the tortilla."
+            ]
+        },
+        {
             "title": "Black Bean Chilli Stir-Fry",
             "source": "https://blog.themalamarket.com/cooking-with-the-godmother-lao-gan-ma-black-bean-chicken",
             "src": "black-bean-chilli-stir-fry",
