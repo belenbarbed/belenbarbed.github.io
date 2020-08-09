@@ -1,6 +1,32 @@
 {
     "recipes": [
         {
+            "title": "Japanese Cheesecake",
+            "source": "https://www.facebook.com/groups/subtleasiancooking/?post_id=3750055535009890",
+            "src": "japanese-cheesecake",
+            "portion": "4",
+            "ingredients": [
+                "130g cream cheese",
+                "30g unsaltedbutter",
+                "50ml milk",
+                "30g flour",
+                "1 tbsp corn starch",
+                "5 tbsp white sugar",
+                "3 eggs separated into whites and yolks"
+            ],
+            "method": [
+                "Melt the cheese, butter, and milk in a bowl using bain marie.",
+                "Remove from the heat, add the egg yolks and whisk together.",
+                "Sift in the flour and corn starch, and whish again.",
+                "In a separate bowl, whisk the egg whites to soft peaks, while adding the sugar slowly.",
+                "Add 1/3 of the egg whites into the other mixture and combine well.",
+                "Add the remaining egg whites gently, folding without over mixing or letting too much air out.",
+                "Pour into a pan, then place it in a trough with water 5cm high.",
+                "Bake for 1h at 120&ordm;C, then for 15mins at 150&ordm;C.",
+                "Remove from the pan and let cool before serving."
+            ]
+        },
+        {
             "title": "Taiwanese Beef Noodle Soup",
             "source": "https://thewoksoflife.com/taiwanese-beef-noodle-soup-instant-pot/",
             "src": "taiwanese-soup",
