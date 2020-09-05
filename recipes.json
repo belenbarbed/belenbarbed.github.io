@@ -1,6 +1,34 @@
 {
     "recipes": [
         {
+            "title": "Hong Shao Rou",
+            "source": "https://thewoksoflife.com/red-cooked-pork-hong-shao-rou-grandmas-version/",
+            "src": "hong-shao-rou",
+            "portion": "4",
+            "ingredients": [
+                "600g pork belly, in cubes",
+                "??g fried tofu (half a bag)",
+                "3tbsp sugar",
+                "100ml Shaoxing wine",
+                "250ml water",
+                "2tbsp light soy sauce",
+                "2tbsp dark soy sauce",
+                "1 thumb of ginger, sliced",
+                "3 bay leaves",
+                "3 star anise",
+                "1 cinnamon sticks",
+                "1/2 onion"
+            ],
+            "method": [
+                "Boil the pork for a couple of minutes to get rid of the scum.",
+                "Add the sugar to an empty pot, and cook until it starts melting.",
+                "Add the pork and coat it in the sugar until there's no more left.",
+                "Add all the rest of the ingredients.",
+                "Simmer for 1h covered, then for 10mins uncovered, or until the liquid has reduced entirely.",
+                "Remove the bay leaves, star anise, and cinnamon sticks before serving."
+            ]
+        },
+        {
             "title": "Japanese Cheesecake",
             "source": "https://www.facebook.com/groups/subtleasiancooking/?post_id=3750055535009890",
             "src": "japanese-cheesecake",
