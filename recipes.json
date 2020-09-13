@@ -1,6 +1,40 @@
 {
     "recipes": [
         {
+            "title": "Pimientos Rellenos",
+            "source": "https://cocina-familiar.com/receta-de-pimientos-rellenos-de-carne-con-salsa-de-cebolla.html",
+            "src": "pimientos-rellenos",
+            "portion": "3",
+            "ingredients": [
+                "15 whole pimientos del piquillo",
+                "250g of pork mince",
+                "250g of beef mince",
+                "1 boiled egg",
+                "2 heaped tbsp of flour",
+                "150ml tomato sauce",
+                "Milk",
+                "1 onion",
+                "4 garlic cloves",
+                "500ml beef stock",
+                "Olive oil",
+                "Salt, pepper, paprika"
+            ],
+            "method": [
+                "Start cooking the onion sauce by thinly slicing the onion and garlic, and frying it off in some olive oil.",
+                "Once they're turning golden, add a heaped tbsp of flour and stir well.",
+                "Add the stock and bring to a boil for 5mins.",
+                "Blend the sauce in the pan, and leave on low heat to reduce.",
+                "In the meantime, cook the mince meat in a pan, stirring often to separate the chunks.",
+                "Once it's all cooked, add the tomato sauce, grated egg, and season with salt, pepper, and paprika.",
+                "Add a heaped tbsp of flour and stir until fully combined.",
+                "Incorporate the milk slowly, until the mixture has lightened in colour and cannot absorb any more.",
+                "Simmer for a couple more minutes, then set aside to cool.",
+                "Once cooled, stuff all the peppers to the brim with the meat filling.",
+                "Add the now-reduced onion sauce to the pan that has the excess filling, and place the stuffed peppers on top.",
+                "Simmer it all gently for 10-15mins."
+            ]
+        },
+        {
             "title": "Hong Shao Rou",
             "source": "https://thewoksoflife.com/red-cooked-pork-hong-shao-rou-grandmas-version/",
             "src": "hong-shao-rou",
