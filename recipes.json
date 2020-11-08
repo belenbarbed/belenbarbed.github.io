@@ -1,6 +1,26 @@
 {
     "recipes": [
         {
+            "title": "Fudge",
+            "source": "https://www.carnation.co.uk/recipes/ultimate-fudge-recipe",
+            "src": "fudge",
+            "portion": "?? g",
+            "ingredients": [
+                "400g (one can) condensed milk",
+                "150ml milk",
+                "450g brown sugar",
+                "80g butter"
+            ],
+            "method": [
+                "Place all the ingredients in a large non-stick pan.",
+                "Melt over low heat, until the sugar fully dissolves.",
+                "Bring to a steady boil for 10-15 mins, stirring continuously to prevent it from burning.",
+                "Remove from the heat and let cool for 5 mins.",
+                "Beat the mixture until it just looses it's shine and becomes very thick, for about 10 mins.",
+                "Press into a tin and leave to set before cutting up into cubes."
+            ]
+        },
+        {
             "title": "Ben's Cookies",
             "source": "https://marmaladeandme.com/bens-cookies-recipe/",
             "src": "bens-cookies",
