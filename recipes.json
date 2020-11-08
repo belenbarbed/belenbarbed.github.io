@@ -1,6 +1,32 @@
 {
     "recipes": [
         {
+            "title": "Ben's Cookies",
+            "source": "https://marmaladeandme.com/bens-cookies-recipe/",
+            "src": "bens-cookies",
+            "portion": "12 cookies",
+            "ingredients": [
+                "180g plain flour",
+                "20g baking powder",
+                "85g unsalted butter",
+                "100g brown sugar",
+                "50g icing sugar",
+                "1tsp vanilla extract",
+                "1 egg",
+                "Milk chocolate chips, or equivalent",
+                "A sprinkle of salt"
+            ],
+            "method": [
+                "Melt the butter in a bowl, and stir in the sugars and vanilla extract.",
+                "Making sure it's not to hot, crack the egg in and keep mixing.",
+                "Pour into a larger bowl, where the flour, baking powder, and salt has been mixed.",
+                "Stir well until fully combined. This will make a stiff dough.",
+                "Place one spoonful of dough on the baking sheet at a time, leaving plenty of room in between them.",
+                "Place the chocolate chips on each dough ball.",
+                "Bake at 180&ordm;C for 10 mins."
+            ]
+        },
+        {
             "title": "Lemon Curd Tarts",
             "source": "https://foodnetwork.co.uk/recipes/lemon-curd-tart/",
             "src": "lemon-tarts",
@@ -12,7 +38,7 @@
                 "2 eggs",
                 "85g golden syrup",
                 "4tbsp vegetable oil",
-                "150g flour",
+                "150g plain flour",
                 "2tsp baking powder"
             ],
             "method": [
