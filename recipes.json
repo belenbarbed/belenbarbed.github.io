@@ -1,6 +1,34 @@
 {
     "recipes": [
         {
+            "title": "Lemon Curd Tarts",
+            "source": "https://foodnetwork.co.uk/recipes/lemon-curd-tart/",
+            "src": "lemon-tarts",
+            "portion": "8 tarts",
+            "ingredients": [
+                "2 lemons",
+                "50g unsalted butter",
+                "150g brown sugar",
+                "2 eggs",
+                "85g golden syrup",
+                "4tbsp vegetable oil",
+                "150g flour",
+                "2tsp baking powder"
+            ],
+            "method": [
+                "For the tarts, mix the golden syrup and vegetable oil until combined.",
+                "Add the flour and baking powder, mix, and then knead by hand until the dough stops falling apart. Rest for 1h.",
+                "Divide the dough into 8 pieces, and line a muffin tray with the flattened dough.",
+                "Line each tart with some kitchen foil and pour some rice/beans on top to prevent the bottom from rising.",
+                "Bake at 200&ordm;C for 10 mins, then for an extra 5 without the foil. Set aside.",
+                "For the curd, zest the lemons and blend the zest with the sugar until finely minced.",
+                "In a bowl, cream the room-temperature butter with the zest and sugar mixture.",
+                "Add the eggs, one at a time, and then the juice from the lemons. Mix well.",
+                "Pour the mixture into a pan, and cook over low heat until thickened.",
+                "Pour the curd into the tart shells and allow to cool fully before serving."
+            ]
+        },
+        {
             "title": "Carrot Cake",
             "source": "https://www.facebook.com/groups/subtleasiancooking/permalink/3794780687204041",
             "src": "carrot-cake",
@@ -23,7 +51,7 @@
                 "In another bowl, mix together the oil and sugars. Add in eggs one at time and mix thoroughly.",
                 "Add flour mixture to wet ingredients in 2 portions, mixing inbetween.",
                 "Fold in carrots and pecans.",
-                "Pour into a lightly greased pan and bake at 175 for 50 mins, until a toothpick comes out clean from the middle.",
+                "Pour into a lightly greased pan and bake at 175&ordm;C for 50 mins, until a toothpick comes out clean from the middle.",
                 "Whisk the three icing incredients: cream cheese, icing sugar, and double cream.",
                 "Let the cake cool, cut in half vertically, then decorate with icing."
             ]
