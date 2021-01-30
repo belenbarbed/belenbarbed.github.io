@@ -1,6 +1,126 @@
 {
     "recipes": [
         {
+            "title": "Lasagna",
+            "src": "lasagna",
+            "portion": "3 servings",
+            "ingredients": [
+                ""
+            ],
+            "method": [
+                ""
+            ]
+        },
+        {
+            "title": "Rosc&oacute;n de Reyes",
+            "source": "https://www.directoalpaladar.com/postres/receta-de-roscon-de-reyes",
+            "src": "roscon-reyes",
+            "portion": "one 1/2kg rosc&oacute;n",
+            "ingredients": [
+                ""
+            ],
+            "method": [
+                ""
+            ]
+        },
+        {
+            "title": "Croquetas de Bacalao",
+            "source": "",
+            "src": "croquetas-bacalao",
+            "portion": "approx. 24 croquetas",
+            "ingredients": [
+                ""
+            ],
+            "method": [
+                ""
+            ]
+        },
+        {
+            "title": "Tuna Mayo Don",
+            "source": "https://www.facebook.com/groups/subtleasiancooking/permalink/4254000577948714",
+            "src": "tuna-don",
+            "portion": "1",
+            "ingredients": [
+                "1 can tuna",
+                "1 tbsp kewpie mayo",
+                "wasabi, to taste",
+                "1 tsp soy sauce",
+                "1 green onion",
+                "1/2 a ripe avocado",
+                "shichimi togarashi",
+                "shredded yaki nori (toasted seaweed)"
+            ],
+            "method": [
+                "Mix the tuna, mayo, wasabi, and soy sauce in a bowl.",
+                "Slice the avocado and place in a bowl on top of rice.",
+                "Add the tuna mayo mixture and garnish with the chopped green onion, shichimi togarashi, and nori."
+            ]
+        },
+        {
+            "title": "Melon Pan",
+            "source": "https://www.facebook.com/groups/subtleasianbaking/permalink/552499375632506/",
+            "src": "melon-pan",
+            "portion": "5-6 buns",
+            "ingredients": [
+                "90g heavy cream",
+                "120g milk",
+                "1/2 egg",
+                "35g granulated sugar",
+                "275g plain flour",
+                "2 tbsp cornstarch",
+                "1/2 pack of active dry yeast",
+                "1tsp vanilla extract",
+                "2tbsp matcha powder, optional",
+                "a pinch of salt",
+                "42g unsalted butter, for the topping",
+                "35g icing sugar, for the topping",
+                "40g granulated sugar, for the topping",
+                "85g plain flour, for the topping",
+                "1 egg white, for the topping",
+                "1tsp vanilla extract, for the topping",
+                "a pinch of salt, for the topping",
+                "1tbsp matcha powder, optional for the topping",
+                "optional filling, such as chocolate or sweet red bean paste"
+            ],
+            "method": [
+                "Warm the cream on medium heat and dissolve 25g of the plain flour with a spatula.",
+                "Once homogeneous, add into the stand mixer bowl, together with the rest of the main dough ingredients.",
+                "Mix with the dough hook for 15mins, then cover and let rest for 1h.",
+                "Make the topping dough by creaming the butter and both sugars. Then add the egg white, vanilla, and salt.",
+                "Gently incorporate the flour, and refrigerate for 1h. Before using, knead with the dough hook for 5mins.",
+                "Divide the main dough into 5-6 balls, with the optional filling wrapped inside.",
+                "With floured hands, divide the topping dough and roll it out to lay it over the buns, tucking in the excess.",
+                "Let them proof for an extra 1h, and then score the tops with a criss-cross pattern using a knife.",
+                "Bake for 20mins at 175&ordm;C."
+            ]
+        },
+        {
+            "title": "Mapo Tofu",
+            "source": "https://thewoksoflife.com/ma-po-tofu-real-deal/",
+            "src": "mapo-tofu",
+            "portion": "2-3 servings",
+            "ingredients": [
+                "1 thumb of ginger",
+                "3 cloves of garlic",
+                "200g minced pork",
+                "1 block of silken tofu (~280g)",
+                "2 tbsp Doubanjiang paste",
+                "a splash of Shaoxing wine",
+                "200ml chicken broth",
+                "2 tbsp cornstarch, dissolved in a little water",
+                "vegetable oil",
+                "chilli oil to taste"
+            ],
+            "method": [
+                "Fry off the minced garlic and ginger in a mix of vegetable and chilli oil",
+                "Once fragrant, add the minced pork, and let it cook completely.",
+                "Add the Shaoxing wine and Doubanjiang, and stir well.",
+                "Add the chicken broth, and cut up the tofu into cubes while it simmers for a bit.",
+                "Mix in the cornstarch slurry and, once thickened, add the tofu, stirring carefully.",
+                "Add a bit more chilli oil and let it all cook for a further 5mins before serving."
+            ]
+        },
+        {
             "title": "Fudge",
             "source": "https://www.carnation.co.uk/recipes/ultimate-fudge-recipe",
             "src": "fudge",
