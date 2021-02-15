@@ -1,6 +1,39 @@
 {
     "recipes": [
         {
+            "title": "Turnip Cake",
+            "source": "https://coupleovercooked.com/%E8%98%BF%E8%94%94%E7%B3%95%E5%81%9A%E6%B3%95-turnip-cake/",
+            "src": "turnip-cake",
+            "portion": "3 small cakes (~xcm diameter)",
+            "ingredients": [
+                "1.2kg Daikon radish",
+                "2 cured Chinese sausages",
+                "30g dried shrimp",
+                "200g rice flour",
+                "70g wheat flour",
+                "1tsp salt",
+                "2tsp chicken powder",
+                "1tsp sugar",
+                "1/2 tsp pepper"
+            ],
+            "method": [
+                "Soak the dried shrimps for at least 1h",
+                "Boil the grease and wax off the sausages, then peel and finely chop.",
+                "Stir fry the shrimps, setting aside their water, until aromatic.",
+                "Add in the sausages until aromatic, then set aside.",
+                "Peel the radish until you see the netting, keeping about 80%.",
+                "Cut into chuncks, then grate it into a bowl.",
+                "Using your hands, pick up the solid pieces of radish, squeezing the juice out of them back into the bowl, setting the dried radish aside.",
+                "Add the flours and shrimp water into the radish juice, and mix until it becomes a batter.",
+                "Sautee the dry radish in a wok, and season with the salt, pepper, sugar, and chicken powder.",
+                "Add 3/4 of the meat and shrimp, and continue cooking.",
+                "Set to low heat, and add the batter in.",
+                "Cook until the dough has reduced and become sticky.",
+                "Place in oiled trays, and steam for 45 mins or until an inserted chopstick comes out clean.",
+                "Cut into pieces and stir fry, serve with the remaining sausage and shrimp on top. Hoisin or sweet chilli sauce pairs well."
+            ]
+        },
+        {
             "title": "Jiu Jiu's Dumplings",
             "src": "dumplings",
             "portion": "30-35 dumplings",
