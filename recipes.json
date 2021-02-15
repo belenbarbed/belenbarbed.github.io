@@ -1,6 +1,42 @@
 {
     "recipes": [
         {
+            "title": "Mak-Kimchi",
+            "source": "https://www.maangchi.com/recipe/easy-kimchi",
+            "src": "kimchi",
+            "portion": "one cabbage's worth",
+            "ingredients": [
+                "1 nappa cabbage (~xkg)",
+                "1/2 cup salt",
+                "250ml water, for the porridge",
+                "3tbsp rice flour, for the porridge",
+                "1tbsp sugar, for the porridge",
+                "1 thumb ginger",
+                "1/2 head of garlic",
+                "1/2 onion",
+                "1 cup red pepper flakes (gochugaru)",
+                "150ml fish sauce",
+                "3 green onions",
+                "1 small leek",
+                "2 small carrots",
+                "Daikon radish"
+            ],
+            "method": [
+                "Cut the cabbage lengthwise into quarters, then perpendicularly into ~3cm wide pieces.",
+                "Soak the cabbage in a large bowl with cold water and the salt for 1h30mins, turning the cabbage over every 30mins.",
+                "Rinse the cabbage under cold water 3 times to clean it.",
+                "Drain and set aside.",
+                "Make the rice porridge by boling the water, rice flour and sugar in a pot, stirring until it becomes translucent.",
+                "Let cool before using",
+                "In a food processor, add the garlic, ginger and onion, and finely mince.",
+                "Then add the porridge, red pepper flakes, and fish sauce until a paste has been made.",
+                "Put the paste in a small bowl.",
+                "Add the julienned leek, carrots, and radish to the paste, as well as the thinly sliced green onions. Mix well.",
+                "Mix the paste thoroughly into the cabbage, using your hands to ensure it's all well coated.",
+                "Set aside in an airtight container, and let it ferment in the fridge for at least a week before you start using it."
+            ]
+        },
+        {
             "title": "Turnip Cake",
             "source": "https://coupleovercooked.com/%E8%98%BF%E8%94%94%E7%B3%95%E5%81%9A%E6%B3%95-turnip-cake/",
             "src": "turnip-cake",
