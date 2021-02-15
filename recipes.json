@@ -1,6 +1,41 @@
 {
     "recipes": [
         {
+            "title": "Jiu Jiu's Dumplings",
+            "src": "dumplings",
+            "portion": "30-35 dumplings",
+            "ingredients": [
+                "250g minced pork",
+                "125g shrimp",
+                "1 tbsp Shaoxing wine",
+                "2 tbsp Soy sauce",
+                "1 tbsp Oyster sauce",
+                "1 tsp sugar",
+                "1 thumb of ginger",
+                "1 large spring onion",
+                "1 Egg",
+                "5-6 dehydrated shiitake mushrooms",
+                "Shiitake mushroom juice",
+                "Salt",
+                "White pepper",
+                "Chinese 5 spice (optional)",
+                "Sesame oil",
+                "Plain flour, for the dough",
+                "Lukewarm water, for the dough"
+            ],
+            "method": [
+                "Make approximately 650g of dough, it should be stiff and dry. Rest for 30 mins.",
+                "Mix all the filling ingredients in a bowl, finely minced.",
+                "Stir the bowl thoroughly, always in the same direction (eg. anti-clockwise).",
+                "Separate the dough into two parts, and roll into a long tube, then cut into pieces.",
+                "Roll out each piece into a disk using a rolling pin, coating both sides in plenty of flour.",
+                "Fill and fold each disk into dumplings.",
+                "Freeze immediately unless you plan to cook them on the day.",
+                "If boiling, boil until they float, then add cold water until it boils again. Repeat two more times.",
+                "Alternatively, you can pan fry until the bottom is crispy, then add water up to 1/3rd of their height and steam until fully evaporated."
+            ]
+        },
+        {
             "title": "Lasagna",
             "src": "lasagna",
             "portion": "3 servings",
