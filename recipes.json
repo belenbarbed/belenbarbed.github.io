@@ -1,6 +1,31 @@
 {
     "recipes": [
         {
+            "title": "Torrijas",
+            "source": "https://www.recetasderechupete.com/torrijas-de-leche-receta-tradicional-de-semana-santa/3410/",
+            "src": "torrijas",
+            "portion": "one bagguette's worth",
+            "ingredients": [
+                "1 day-old bagguette",
+                "500ml milk",
+                "Peel of 1 lemon",
+                "1 tsp vanilla extract",
+                "2 tsp cinnamon",
+                "2 eggs",
+                "150g sugar, for the coating",
+                "1 tbsp cinnamon, for the coating",
+                "Olive oil"
+            ],
+            "method": [
+                "Warn up the milk in a pot with the lemon, vanilla, and cinnamon.",
+                "Once it starts boiling, remove from the heat and let it cool with the flavours.",
+                "Strain the milk into a tray, and let the slices of bread sit in it until fully soaked and softened, while still holding their shape.",
+                "Beat the eggs in a bowl, and add a couple of tablespoons of the milk into the mix.",
+                "Coat the bread pieces in the egg and then fry in some olive oil.",
+                "Once fried, let rest on some kitchen paper, then coat with the remaining sugar and cinnamon."
+            ]
+        },
+        {
             "title": "Mak-Kimchi",
             "source": "https://www.maangchi.com/recipe/easy-kimchi",
             "src": "kimchi",
