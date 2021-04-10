@@ -1,6 +1,56 @@
 {
     "recipes": [
         {
+            "title": "Chinese sausage buns",
+            "source": "https://www.chinasichuanfood.com/steamed-sausage-buns-lop-cheung-buns/",
+            "src": "sausage-buns",
+            "img-src": "grey",
+            "portion": "6 buns",
+            "ingredients": [
+                "3 cured Chinese sausages (Lop Cheung)",
+                "250g plain flour",
+                "150ml milk",
+                "1/2 pack instant yeast (7g)",
+                "2 tbsp sugar",
+                "1 tbsp vegetable oil"
+            ],
+            "method": [
+                "In a stand mixer, mix all the ingredients for 9-12 minutes with hook and low speed until get a elastic, smooth and soft dough.",
+                "Shape it to a large ball and cover with wet cloth. Set aside for 1h.",
+                "Re-knead in the stand mixer slowly for 2mins, until the dough is smooth again.",
+                "Divide the dough into 6 portions and then shape each one into a long strip (around 30cm long with smaller ends).",
+                "Wrap the strips around the half sausages, and rest on some parchment paper for 20mins, then steam for another 20mins."
+            ]
+        },
+        {
+            "title": "Shortbread biscuits",
+            "source": "https://www.bingingwithbabish.com/recipes/biscuits-ted-lasso",
+            "src": "shortbread",
+            "img-src": "grey",
+            "portion": "one ?x?cm tray",
+            "ingredients": [
+                "140g unsalted butter",
+                "140g demerara sugar",
+                "270g plain flour",
+                "55g cornstarch",
+                "A pinch of salt",
+                "55g unsalted butter, for browning",
+                "4 tbsp demerara sugar, for coating"
+            ],
+            "method": [
+                "Brush the baking tray with some softened butter, and sprinkle half of the coating sugar.",
+                "Brown the butter in a pan, taking care not to burn the milk solids.",
+                "Combine the butter, browned butter, salt, and sugar in the bowl of a stand mixer. Mix well for 2-3 mins.",
+                "Meanwhile, combine the flour and cornstarch in a bowl. Whisk well to combine.",
+                "Add half of the dry ingredients and continue mixing for 30s.",
+                "Add the remaining dry ingredients and mix until a crumbly dough forms.",
+                "Transfer the dough to the prepared pan and gently press it into the sides and corners of the tray.",
+                "Top the shortbread with the rest of the coating sugar.",
+                "Bake for 1h - 1.5h at 150&ordm;C or until the top is set and has become lightly golden.",
+                "Allow the shortbread to cool for 10-15 mins before cutting, and a little more before serving."
+            ]
+        },
+        {
             "title": "Torrijas",
             "source": "https://www.recetasderechupete.com/torrijas-de-leche-receta-tradicional-de-semana-santa/3410/",
             "src": "torrijas",
